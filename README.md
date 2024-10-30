@@ -41,7 +41,8 @@ Here's a high level architecture diagram that illustrates these components. Thes
 
 The following video shows the user interface.
 
-https://github.com/Azure-Samples/azure-openai-chat-frontend/assets/4014025/a2933baa-bb8d-42b6-ad8e-a8cf052ddbd0
+https://github.com/user-attachments/assets/540766e0-5ad6-4528-b453-1796e6b629ac
+
 
 ## Deploy to Azure
 
