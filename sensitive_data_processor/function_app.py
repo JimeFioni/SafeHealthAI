@@ -24,7 +24,7 @@ text_analytics_client = TextAnalyticsClient(
 @app.function_name(name="sensitive_data_processor")
 @app.blob_trigger(arg_name="myblob", path="unprocessed-text/{name}",
                   connection="AzureWebJobsStorage", source="EventGrid")
-@app.blob_output(arg_name="outputblob", path="processed-text/{name}.txt", 
+@app.blob_output(arg_name="outputblob", path="processed-text/{name}-redacted.txt", 
                 connection="AzureWebJobsStorage")
 def analyze_sensitive_data(myblob: func.InputStream, outputblob: func.Out[str]):
     document_id = str(uuid.uuid4())  # Generate unique ID for correlation
