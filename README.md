@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/InnovationChallengeGrupo5/SafeHealthAI/blob/main/images/SafeHealthAI-LOGO.jpg)
 
 # SafeHealthAI
 ## Web application with Virtual Medical Assistant, Predictive Analysis, and Dynamic Data Protection
