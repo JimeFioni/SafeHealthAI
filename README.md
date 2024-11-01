@@ -128,3 +128,4 @@ Please adhere to this project's [code of conduct](.github\CODE_OF_CONDUCT.md).
 - [Freddy Pinto](https://www.github.com/FreddyPinto)
 - [Jimena Fioni](https://www.github.com/JimeFioni)
 - [Francisco Sanchez](https://www.github.com/fjsanchezm)
+- [Adolfo Contreras Sixto](https://github.com/sixto-AC)
