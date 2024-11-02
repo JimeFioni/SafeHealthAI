@@ -1,4 +1,6 @@
-![Logo](https://github.com/InnovationChallengeGrupo5/SafeHealthAI/blob/main/assets/images/Animated_Logo_SafeHealthAI.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/InnovationChallengeGrupo5/SafeHealthAI/refs/heads/main/assets/images/logo/Animated_Logo_SafeHealthAI.gif" alt="Logo">
+</p>
 
 # SafeHealthAI
 ## Web application with Virtual Medical Assistant, Predictive Analysis and Dynamic Data Protection
@@ -9,7 +11,11 @@ Virtual assistant that facilitates the management of medical information, with a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Policy Screenshot](/assets/images/screenshots/policy.png)
+![Home Screenshot](/assets/images/screenshots/home.png)
+![Security Screenshot](/assets/images/screenshots/dashboard-security.png)
+![Analitics Screenshot](/assets/images/screenshots/dashboard-analytics.png)
+![Chatbot Screenshot](/assets/images/screenshots/chatbot.png)
 
 ## Tech Stack
 
@@ -27,15 +33,15 @@ This application utilizes the following Azure resources:
 - [**Defender for Cloud**](https://docs.microsoft.com/azure/defender-for-cloud/) for unified security management and advanced threat protection
 - [**Azure Policy and Compliance Center**](https://docs.microsoft.com/azure/governance/policy/) for auditing and monitoring
 - [**Microsoft Entra ID**](https://azure.microsoft.com/services/active-directory) to enable single sign-on
-- [**Application Insights**](https://docs.microsoft.com/azure/azure-monitor/app/app-insights-overview) to detect, triage, and diagnose issues in web services and applications
-- [**Azure RBAC and Built-in Roles**](https://docs.microsoft.com/azure/role-based-access-control/) for role-based access control
-
+- [**Azure Healthcare Agent Services**](https://learn.microsoft.com/en-us/azure/health-bot/) for building and deploying AI-powered health virtual assistant on Copilot Studio.
+- [**Copilot Studio**](https://learn.microsoft.com/en-us/azure/health-bot/overview) for detecting hospitalization risks in patients undergoing prostate biopsies.
+- [**Azure Machine Learning**](https://learn.microsoft.com/en-us/azure/machine-learning/) for training and consuming the risk model.
 
 ## Architecture Diagram
 
 Here's a high level architecture diagram that illustrates these components. These are all contained within a single [resource group](https://docs.microsoft.com/azure/azure-resource-manager/management/manage-resource-groups-portal)
 
-![Architecture Diagram](./docs/architecture-diagram.png)
+![Architecture Diagram](/assets/images/architecture/architecture-diagram.png)
 
 ## Demo Video
 
