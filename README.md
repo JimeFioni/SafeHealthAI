@@ -47,7 +47,8 @@ Here's a high level architecture diagram that illustrates these components. Thes
 
 The following video shows the user interface.
 
-https://github.com/user-attachments/assets/540766e0-5ad6-4528-b453-1796e6b629ac
+[![Watch the video](https://img.youtube.com/vi/8PPh6xilBN4/0.jpg)](https://www.youtube.com/watch?v=8PPh6xilBN4)
+
 
 
 ## Deploy to Azure
