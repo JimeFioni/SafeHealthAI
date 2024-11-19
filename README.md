@@ -2,8 +2,10 @@
   <img src="https://raw.githubusercontent.com/InnovationChallengeGrupo5/SafeHealthAI/refs/heads/main/assets/images/logo/Animated_Logo_SafeHealthAI.gif" alt="Logo">
 </p>
 
-# SafeHealthAI
+# SafeHealthAI 
+## Third Place in the Innovation Challenge hackathon 🥉
 ## Web application with Virtual Medical Assistant, Predictive Analysis and Dynamic Data Protection
+
 
 Virtual assistant that facilitates the management of medical information, with a focus on the protection of sensitive data (PII and PHI), predictive analysis of diagnoses and interactive dashboard for the visualization of key data.  
 
